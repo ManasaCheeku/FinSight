@@ -1,0 +1,3 @@
+"""
+FinSight tools package.
+"""

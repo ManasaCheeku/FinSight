@@ -1,0 +1,3 @@
+"""
+FinSight tests package.
+"""
