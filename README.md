@@ -31,6 +31,8 @@ FinSight combines deterministic financial calculations with AI-powered reasoning
 - INR / Indian number formatting
 
 ## Architecture
+<img width="4667" height="6855" alt="diagram" src="https://github.com/user-attachments/assets/acc95bfe-a3a3-40d0-9e3a-81d1c6672789" />
+
 
 ```text
 React Frontend
